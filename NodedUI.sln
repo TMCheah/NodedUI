@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodedUI_State", "NodedUI_State\NodedUI_State.csproj", "{688CA6D1-BFF6-4661-8A4F-B117C6F3528D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodedUI", "NodedUI\NodedUI.csproj", "{DFD00F99-2CE8-4054-BDBC-22CB00F9EAE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{688CA6D1-BFF6-4661-8A4F-B117C6F3528D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688CA6D1-BFF6-4661-8A4F-B117C6F3528D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688CA6D1-BFF6-4661-8A4F-B117C6F3528D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688CA6D1-BFF6-4661-8A4F-B117C6F3528D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD00F99-2CE8-4054-BDBC-22CB00F9EAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD00F99-2CE8-4054-BDBC-22CB00F9EAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD00F99-2CE8-4054-BDBC-22CB00F9EAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD00F99-2CE8-4054-BDBC-22CB00F9EAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22EFCA23-789A-4631-9206-E0DE41C052C0}
+	EndGlobalSection
+EndGlobal
